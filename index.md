@@ -15,3 +15,7 @@ and
 ```
 String myString = "hello world"
 ```
+
+adding a list
+- [x] say "hello"
+- [ ] say "world"
